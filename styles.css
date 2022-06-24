@@ -1,0 +1,32 @@
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color: white;
+    background-color: brown;
+}
+
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color: black;
+    background-color: aquamarine;
+}
+
+li{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: large;
+}
+
+ol{
+    background-color: bisque;
+}
+
+ul{
+    background-color: gainsboro;
+}
+
+img{
+    height: 350;
+    width: auto;
+}
